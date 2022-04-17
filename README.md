@@ -9,7 +9,9 @@ I am trying to display comments in files to uderstand code clearly.
 In this project, there is a single main.go files in which all crud operations were done with the help of taking an example of movies.
 Tou can create new movie, update existing movie, access all movies, get movie by id and delete a movie.
 
-
+### Project2: Todo List API:
+In this project, there is a single main.go file in which you find all CRUD operations of Todo list. This is working on port 3000.
+CRUD: Create todo statement, update todo statement, delete todo statement and get all todo list.
 
 
 
